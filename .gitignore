@@ -1,0 +1,4 @@
+.idea
+*.iml
+config.ts
+node_modules/
